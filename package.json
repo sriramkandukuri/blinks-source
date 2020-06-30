@@ -19,6 +19,8 @@
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.4.6",
+    "kind-of": "^6.0.3",
+    "mem": "^6.1.0",
     "minimist": "^1.2.5",
     "postcss-cli": "^5.0.1"
   }
