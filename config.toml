@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "LNTSK"
+title = "BLINKS"
 
 enableRobotsTXT = true
 
@@ -53,13 +53,13 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "LNTSK"
+title = "BLINKS"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 # [languages.te]
-# title = "LNTSK"
+# title = "BLINKS"
 # description = "Docsy er operativsystem for skyen"
 # languageName ="Telugu"
 # contentDir = "content/te"
@@ -74,8 +74,8 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-disclaimer = "Disclaimer: LNTSK is a hugo based wesite. Used google docsy as base theme, with several customizations for enabling dark theme.Cover image is downloaded from google."
-copyright = "LNTSK"
+disclaimer = "Disclaimer: BLINKS is a hugo based wesite. Used google docsy as base theme, with several customizations for enabling dark theme.Cover image is downloaded from google."
+copyright = "BLINKS"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
@@ -100,9 +100,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/sriramkandukuri/lntsk"
+github_repo = "https://github.com/sriramkandukuri/blinks"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/sriramkandukuri/lntsk"
+github_project_repo = "https://github.com/sriramkandukuri/blinks"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -136,8 +136,8 @@ footer_about_disable = true
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/sriramkandukuri/lntsk/issues/new">tell us how you feel./a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/sriramkandukuri/lntsk/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/sriramkandukuri/blinks/issues/new">tell us how you feel./a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/sriramkandukuri/blinks/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 

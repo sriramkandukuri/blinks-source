@@ -1,4 +1,4 @@
-# LNTSK
+# BLINKS
 
 Small hugo based website for
 1. Technical tutorials
