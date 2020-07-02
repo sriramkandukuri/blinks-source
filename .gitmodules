@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/sriramkandukuri/sriramkandukuri.github.io.git
+	url = https://github.com/sriramkandukuri/blinks.git
 	branch = master
 [submodule "themes/docsy"]
 	path = themes/docsy
